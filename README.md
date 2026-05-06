@@ -1,15 +1,15 @@
-# 🤖 AI Portfolio Chatbot
+#AI Portfolio Chatbot
 
 > Asistente IA personal que corre 100% local con Ollama + Mistral 7B.
 > Demuestra habilidades Full Stack: React • Python • FastAPI • Ollama.
 
-⭐ **Sin APIs externas** | ⚡ **Respuestas en streaming** | 🎨 **UI Premium**
+**Sin APIs externas** | ⚡ **Respuestas en streaming** | **UI Premium**
 
 Este proyecto es un chatbot conversacional que se alimenta de mis datos profesionales y puede responder preguntas sobre mí, mi formación, experiencia y tecnologías, como si fuera yo.
 
 ---
 
-## 🚀 Tecnologías
+## Tecnologías
 
 ### Frontend
 - **React + Vite**: Para una interfaz rápida y un desarrollo ágil.
@@ -23,7 +23,7 @@ Este proyecto es un chatbot conversacional que se alimenta de mis datos profesio
 
 ---
 
-## 🛠️ Instalación y Uso
+## Instalación y Uso
 
 ### 1. Prerrequisitos
 - Tener [Python 3.11+](https://www.python.org/) instalado.
@@ -54,7 +54,7 @@ npm run dev
 
 ---
 
-## 💡 Funcionamiento
+## Funcionamiento
 
 1. El usuario envía un mensaje a través del Frontend de React.
 2. FastAPI recibe la petición y pre-conecta un contexto de sistema detallando quién soy.
