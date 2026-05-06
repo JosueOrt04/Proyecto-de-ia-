@@ -1,0 +1,10 @@
+Backend
+source venv/bin/activate
+python main.py
+
+Frontend
+npm run dev 
+
+
+
+
