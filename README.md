@@ -3,7 +3,7 @@
 > Asistente IA personal que corre 100% local con Ollama + Mistral 7B.
 > Demuestra habilidades Full Stack: React • Python • FastAPI • Ollama.
 
-**Sin APIs externas** | ⚡ **Respuestas en streaming** | **UI Premium**
+**Sin APIs externas** | **Respuestas en streaming** | **UI Premium**
 
 Este proyecto es un chatbot conversacional que se alimenta de mis datos profesionales y puede responder preguntas sobre mí, mi formación, experiencia y tecnologías, como si fuera yo.
 
